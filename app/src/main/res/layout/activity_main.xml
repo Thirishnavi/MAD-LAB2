@@ -17,14 +17,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.442" />
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="132dp"
-        tools:layout_editor_absoluteY="505dp" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
